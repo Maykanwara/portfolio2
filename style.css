@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid black;
+    justify-content:space-between;
+    align-items: center  ;
+    margin-right: 80px;
+}
+
+.nav a {
+    
+    display: flex;
+    text-decoration: none;
+    
+}
