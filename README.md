@@ -11,11 +11,11 @@ To create a portfolio project to display our work. It should include my name and
 ​
 ## Link to GitHub main project page
 ​
-[Portfolio Project Page on GitHub](https://github.com/Maykanwara/Portfolio.git)
+[Portfolio Project Page on GitHub](https://github.com/Maykanwara/portfolio2.git)
 ​                                   
 ## Link to Deployed Application
 ​
-[Live Depoyment Link](https://maykanwara.github.io/Portfolio/)
+[Live Depoyment Link](https://maykanwara.github.io/portfolio2/)
 
 ​
 ## Screenshots of Finished Product
