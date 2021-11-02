@@ -2,8 +2,9 @@
 ​
 ## Description
 ​
-To create a portfolio project to display our work. It should include my name and a recent picture of me. As well as, links that scroll to content areas for "About Me", "Work", and "Contact Me". In the work area the first image to an application should display larger than the others. This also needs to be responsive to smaller screens
-​
+This is my portfolio showcasing my work.
+Feel free to view my work here.
+
 ## Languages
 - HTML
 - CSS
