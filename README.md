@@ -20,10 +20,11 @@ Feel free to view my work here.
 
 ​
 ## Screenshots of Finished Product
+
 ​
 ### Desktop Header
 ​
-![This is an image](/assets/KM-logo.png)
+![This is an image](/assets/portfolio.png)
 ​
 ### Desktop Work Section
 ​
