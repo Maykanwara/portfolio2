@@ -37,6 +37,30 @@ body{
    
 }
 
+.picture {
+    width: 100px;
+    height:100px;
+    background-image: url(assets/kanwara.jpg);
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* *.column {
+    float: : left;
+    width: 33.33%;
+    padding: 5px;
+
+} 
+
+* .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}  */
+
+
 .section {
     display: flex;
 
@@ -46,12 +70,7 @@ body{
     text-align: right;
     padding-right: 15px;
 }
-.picture {
-    width: 25%;
-    height: 20%;
-    object-fit: contain; 
 
-}
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -59,7 +78,7 @@ body{
     flex-basis: 75%;
 }
 .code-quiz {
-    background-image: url(assets/code\ quiz.png);
+    background-image: url(assets/codequiz.png);
     height:400px;
     width: 100%;
     background-size: cover;
@@ -67,6 +86,15 @@ body{
     background-repeat: no-repeat;
 
 }
+.tunespace {
+    background-image: url(assets/tunespace.png);
+    height:400px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .hero-area {
     background-color:thistle;
     height: 50vh;
@@ -75,17 +103,58 @@ body{
     text-align: center;
 }
 footer {
-    background-color:black;
+    background-color:rgb(192, 212, 255);
     color:  grey;
     text-align: center;
     padding: 80px;
 }
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
 
 
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-google {
+    background: #af00b5;
+    color: white;
+  }
+
+  .fa-github {
+    background: black;
+    color: white;
+  }
+
+  /* .fa  {
+
+    /* background: black; */
+    /* color: white; */
+  /* } */ 
 
 
-
-
+  .resume {
+    background-image: url(assets/Resumeicon.jpeg);
+    height:100px;
+    width: 7%;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.resume-img {
+    background-image: url(assets/kanwararesume.jpg);
+    height:100px;
+    width: 7%;
+}  
+  
 
 

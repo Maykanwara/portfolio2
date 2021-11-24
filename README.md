@@ -28,11 +28,15 @@ Feel free to view my work here.
 ​
 ### Desktop Work Section
 ​
-![This is an image](/assets/images/readmescreenshots/work.png)
+![This is an image](/assets/codequiz.png)
+![This is an image](/assets/tunespace.png)
+
 ​
 ### Desktop Contact and Footer
 ​
 ![This is an image](/assets/kanwara.jpg)
+![This is an image](/assets/kanwararesume.jpg)
+
 ​
 ## Acknowledgements
 ​
