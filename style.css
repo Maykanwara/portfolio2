@@ -95,6 +95,16 @@ body{
     background-repeat: no-repeat;
 }
 
+
+.lifetracker {
+    background-image: url(assets/lifetracker.jpg);
+    height:400px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .hero-area {
     background-color:thistle;
     height: 50vh;
