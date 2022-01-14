@@ -17,7 +17,7 @@ Feel free to view my work here.
 ## Link to Deployed Application
 
 [Live Depoyment Link](https://maykanwara.github.io/portfolio2/)
-                      (https://github.com/m-sherrill/Project-2)
+                      (https://maykanwara.github.io/portfolio2/)
 
 
 ## Screenshots of Finished Product
